@@ -1,0 +1,36 @@
+{
+    "students": [
+        {
+            "id": "0126-0668",
+            "name": "Bandian, Althea D.",
+            "course_section": "BSCS - 1B"
+        },
+        {
+            "id": "0126-0659",
+            "name": "Dela Cueva, Princess Hannah B.",
+            "course_section": "BSCS - 1B"
+        },
+        {
+            "id": "0126-0652",
+            "name": "Evangelista, Michael M.",
+            "course_section": "BSCS - 1B"
+        },
+        {
+            "id": "0126-0672",
+            "name": "Rodio, Justine T.",
+            "course_section": "BSCS - 1B"
+        }
+    ],
+    "attendance": [
+        {
+            "student_id": "0126-0672",
+            "date": "2026-11-25",
+            "status": "Late"
+        },
+        {
+            "student_id": "0126-0652",
+            "date": "2026-11-25",
+            "status": "Present"
+        }
+    ]
+}
